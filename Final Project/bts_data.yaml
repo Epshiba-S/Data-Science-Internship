@@ -1,0 +1,11 @@
+path: ./dataset
+train: images/train
+val: images/val
+names:
+  0: RM
+  1: Jin
+  2: Suga
+  3: J-Hope
+  4: Jimin
+  5: V
+  6: Jungkook
